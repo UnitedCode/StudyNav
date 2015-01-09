@@ -139,6 +139,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: #2ecc71;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
